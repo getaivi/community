@@ -26,7 +26,9 @@ your ideas for the future, and help us surface bugs.
   showcase your use case? Join the conversation on our [discussions
   board](https://github.com/getaivi/community/discussions).
 - **Help us improve**: If you run into a snag or find a bug, [open an
-  issue](https://github.com/getaivi/community/issues).
+  issue](https://github.com/getaivi/community/issues). Bugs in the Home
+  Assistant integration go to its [own
+  tracker](https://github.com/getaivi/home-assistant/issues).
 - **Stay updated**: Follow us on [X](https://twitter.com/getaivi) or
   [Bluesky](https://bsky.app/profile/getaivi.bsky.social) for latest updates.
 
